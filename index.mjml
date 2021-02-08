@@ -1,0 +1,185 @@
+<mjml>
+<mj-head>
+    <mj-title>БКС Мир инвестиций</mj-title>
+    <mj-font name="Suisse Int'l" href="https://bcs.ru/assets/fonts/SuisseIntl-Regular.woff"></mj-font>
+    <mj-font name="Suisse Int'l" href="/assets/fonts/SuisseIntl-Regular.woff2"></mj-font>
+    <mj-font name="Suisse Int'l" href="/assets/fonts/SuisseIntl-Book.woff"></mj-font>
+    <mj-font name="Suisse Int'l" href="/assets/fonts/SuisseIntl-Book.woff2"></mj-font>
+    <mj-font name="Suisse Int'l" href="/assets/fonts/SuisseIntl-Medium.woff"></mj-font>
+     <mj-font name="Suisse Int'l" href="/assets/fonts/SuisseIntl-Medium.woff2"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Suisse Intl,Arial,sans-serif"></mj-all>
+      <mj-text font-weight="500" font-size="16px" color="#000000" line-height="20px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+        <mj-style inline="inline">
+     @media (max-width:480px) { 
+        .sm-text {
+        text-align:center;
+        }
+      }
+    </mj-style>
+    <mj-style inline="inline">
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E8E8EC">
+  <mj-section>
+      <mj-column width="100%">
+        <mj-image src="img/banner.png" alt="" align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0" href="https://www.bcs.ru"></mj-image>
+      </mj-column>
+  </mj-section>
+ <mj-section padding-top="0" background-color="#ffffff" vertical-align="top" padding-bottom="0px">
+      <mj-column padding-top="0" vertical-align="top" width="100%">
+        <mj-text align="left" line-height="20px" color="#000000" font-size="16px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-top="11px" padding-bottom="10px" padding-left="20px" padding-right="20px" font-style="normal"><p> [Ольга], здравствуйте!</p>
+          <p> 2020 год преподнес инвесторам немало сюрпризов. Приятными они оказались для участников стратегии «Обгони S&P». За год ее результат составил +65,6% в долларах*.</p>
+
+          <p>В портфель стратегии входят акции США, при выборе которых учитывается управленческий состав каждой компании, финансовая история, перспективы бизнеса и фундаментальные показатели. Бумаги в портфеле находятся до тех пор, пока сохраняют потенциал роста. Если весь позитив уже исчерпан, их заменяют более перспективными.</p></mj-text>
+      </mj-column>
+  </mj-section>
+
+
+<mj-section padding-top="0" background-color="#ffffff" vertical-align="top" padding-bottom="0">
+      <mj-column padding-top="0" vertical-align="top" width="100%">
+        <mj-text align="left" color="#006DF0" font-size="40px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" line-height="100%" padding-top="19px" padding-right="20px" padding-left="20px" padding-bottom="20px" text-transform="uppercase" letter-spacing="1px">Главный принцип стратегии</mj-text>
+      </mj-column>
+  </mj-section>
+
+ <mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0" padding-top="0">
+      <mj-column padding-top="0" padding-bottom="0" vertical-align="top" width="100%">
+        <mj-text align="left" line-height="26px" color="#000000" font-size="20px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-left="20px" padding-right="20px" padding-bottom="0">
+        <p>открывать только длинные позиции и не использовать заемные средства</p>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+   <mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0" padding-top="0">
+      <mj-column padding-bottom="0" padding-top="0" vertical-align="top" width="100%">
+        <mj-text align="left" line-height="20px" color="#000000" font-size="16px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-bottom="5px" padding-top="0" padding-left="20px" padding-right="20px" font-style="normal">
+          <p style="padding-top:0" padding-bottom="0" padding-top="0">При этом большое внимание уделяется диверсификации: набор акций из разных отраслей экономики позволяет сохранять устойчивость в периоды высокой волатильности.</p>
+         </mj-text>
+      </mj-column>
+  </mj-section>
+   <mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0" padding-top="0">
+      <mj-column padding-bottom="0" padding-top="0" vertical-align="top" width="100%">
+        <mj-text align="left" line-height="20px" color="#000000" font-size="16px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-bottom="0" padding-top="5px" padding-left="20px" padding-right="20px" font-style="normal">
+          <p>Стратегия «Обгони S&P» представлена в магазине инвестиционных стратегий Fintarget. Подключитесь к ней в режиме автоследования, чтобы автоматически повторять сделки, которые совершает автор стратегии.</p></mj-text>
+      </mj-column>
+  </mj-section>
+    <mj-section align="left" background-color="#ffffff" padding-bottom="0" padding-top="0" width="185px" height="56px">
+      <mj-column vertical-align="middle" width="100%" width="185px" height="56px">
+        <mj-button width="185px" height="56px" align="left" background-color="#006DF0" color="#ffffff" font-size="11px" padding="13px 20px" border-radius="8px" href="https://fintarget.ru/strategies/outrun_snp" padding-left="21px" padding-right="21px" padding-bottom="13px" text-transform="uppercase">Подключиться</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" vertical-align="top" padding-bottom="0px" padding-top="0">
+      <mj-column vertical-align="top" width="100%">
+        <mj-text align="left" line-height="20px" color="#000000" font-size="16px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-left="20px" padding-right="20px" padding-bottom="10px">
+          <p>Остались вопросы? Обратитесь к вашему финансовому советнику или напишите нам на почту: <a href="mailto:info@fintarget.ru" style="color: #006DF0;text-decoration:underline;">info@fintarget.ru</a>.
+          </p>
+          <p>С уважением, <br />
+          БКС Мир инвестиций</p>
+         </mj-text>         
+      </mj-column>
+  </mj-section>
+  <mj-section padding-top="10px" padding-right="20px"background-color="#ffffff" padding-bottom="0px" padding-top="0" width="100%">
+      <mj-column align="left" width="50%" style="max-width:250px">
+        <mj-text width="50%" align="left" line-height="20px" color="#000000" font-size="16px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-left="20px" padding-right="20px" padding-bottom="24px" padding-top="24px">Это письмо было вам полезно?</mj-text>
+      </mj-column>
+       <mj-column width="50%">     
+      <mj-table width="50%" style="max-width:300px" padding-top="20px" padding-right="0">
+          <tr style="list-style: none;line-height:1">
+            <td width="130" align="right" style="padding-right:20px;" padding-right="20px">
+                <a href="https://fintarget.ru/strategies/outrun_snp">
+                    <img width="110" height="31" src="img/button-yes.jpg" padding-right="20px" />
+                </a></td>
+            <td width="130" align="right" padding-right="0" height="31"><a href="https://fintarget.ru/strategies/outrun_snp">
+                <img width="110" src="img/button-no.jpg" />
+              </a></td>
+          </tr>
+
+        </mj-table>
+         </mj-column>
+    </mj-section>
+
+
+ <mj-section background-color="#006DF0" padding-bottom="0" padding-top="48px" padding-right="0" padding-left="0">
+      <mj-column width="50%">
+        <mj-text align="left" line-height="25px" color="#ffffff" font-size="24px" font-weight="normal" font-style="normal" font-family="Helvetica Neue,Arial,sans-serif" padding-left="20px"  padding-top="0" padding-bottom="0" padding-right="20px"><a style="color:#ffffff;text-decoration:none;" href="tel:88001005544">8 800 100-55-44</a> </mj-text>
+      </mj-column>
+       <mj-column align="right" width="50%"> 
+           <mj-text vertical-align="middle" align="right" line-height="20px" color="#ffffff" font-size="15px" font-weight="normal" font-family="Helvetica Neue,Arial,sans-serif" padding-left="20px" padding-right="20px" padding-bottom="0" padding-top="0" font-style="normal"> 
+              <a href="https://www.bcs.ru" style="text-decoration:none;color:#ffffff">
+               <span font-size="15px" color="#ffffff">bcs.ru </span>
+              </a> 
+              </mj-text>
+     
+         </mj-column>
+    </mj-section>
+ <mj-section background-color="#006DF0" padding-bottom="0px" padding-top="0" padding-right="0" padding-left="0">
+      <mj-column width="50%">
+        <mj-text align="left" line-height="20px" color="#ffffff" font-size="12px" font-weight="300" font-family="Helvetica Neue,Arial,sans-serif" padding-left="21px" padding-right="21px" padding-bottom="15px" padding-top="5px" font-style=" normal"> <span>Звонки по России бесплатно</span></mj-text>
+      </mj-column>
+       <mj-column align="right" width="50%">      
+       </mj-column>
+    </mj-section>
+    
+<mj-section padding-right="20px" padding-left="20px" background-color="#006DF0" padding-bottom="0px" padding-top="0">
+ <mj-column vertical-align="top" width="100%">
+    <mj-divider padding-right="0" padding-left="0"  padding-bottom="5px" border-width="1px" border-color="#ffffff" width="100%"></mj-divider>
+        <mj-text align="left" padding-top="40px" line-height="20px" color="#ffffff" font-size="12px" font-weight="normal" font-family="Suisse Intl,Arial,sans-serif" padding-left="0" padding-right="0" padding-bottom="10px">
+          <p>*Доходность портфеля стратегии «Обгони S&P» смоделирована экспертами ООО «Компания БКС» без учета комиссий по сделкам по данным торгов на ПАО Московская Биржа с 01.01.2020 по 31.12.2020, не учитывает расходы на оплату брокерских и депозитарных услуг, подачи поручений по телефону и иных расходов, подлежащих оплате клиентом. Полный список тарифов ООО «Компания БКС» приведен в приложении №11 к Регламенту оказания услуг на рынке ценных бумаг ООО «Компания БКС». Результат инвестирования в прошлом не определяет дохода в будущем. Информация указана исключительно в информационных целях и не может рассматриваться как, или быть использована в качестве, предложения или побуждения сделать заявку на покупку или продажу, или вложение в ценные бумаги, или другие финансовые инструменты (<a href="https://broker.ru/regulations" style="text-decoration:none;color:#ffffff">https://broker.ru/regulations</a>).
+          </p>
+          <p>Предоставление индивидуальных инвестиционных рекомендаций (ИИР) осуществляется ООО «Компания БКС» с использованием программного обеспечения (ПО) «FinTarget» в рамках Договора об инвестиционном консультировании, заключаемого с ООО «Компания БКС», при условии акцепта клиентом услуги «Автоконсультирование» или услуги «Автоследование» в порядке, установленном Договором об инвестиционном консультировании. ООО «Компания БКС» является профессиональным участником рынка ценных бумаг, осуществляющим деятельность по инвестиционному консультированию. ООО «Компания БКС» включено Банком России в Единый реестр инвестиционных советников 21.12.2018 г. ПО «FinTarget» 17.02.2019 г. аккредитовано НАУФОР в качестве программы автоконсультирования и программы автоследования, посредством которой осуществляется предоставление ИИР. Клиент самостоятельно принимает решение о необходимости получения им услуг ООО «Компания БКС» по инвестиционному консультированию, основываясь на своих знаниях и опыте инвестирования на финансовых рынках. С полной информацией об ООО «Компания БКС», об условиях Договора об инвестиционном консультировании и условиях оказания услуги «Автоконсультирование» или услуги «Автоследование», условий вознаграждения ООО «Компания БКС» за оказание данных услуг, и иной подлежащей раскрытию информации, включая ссылку на страницу, на которой можно оставить обращение (жалобу), вы можете ознакомиться на официальном сайте ООО «Компания БКС» по адресу <a href="https://broker.ru/disclosure" style="text-decoration:none;color:#ffffff">https://broker.ru/disclosure.</a></p>
+         </mj-text>
+      </mj-column>
+</mj-section>
+<mj-section css-class="sm-text" background-color="#006DF0" padding-top="0" padding-bottom="30px" padding-right="0" padding-left="0">
+      <mj-column align="left" width="300px" vertical-align="middle" padding-left="20px" padding-left="0">
+        <mj-table align="left" padding-top="20px" padding-left="0 !important" padding-right="0">
+          <tr css-class="sm-text" width="45px" style="list-style: none;">
+            <td style="min-width:45px;" width="45px" padding-right="25px" padding-left="0">  <a href="https://www.facebook.com">
+                <img width="20" src="img/fb.png" />
+              </a></td>
+            <td style="min-width:45px;" width="45px" padding-right="25px"><a href="https://twitter.com">
+                <img width="22" src="img/tr.png" />
+              </a>  </td>
+            <td style="min-width:45px;" width="45px" padding-right="25px"> <a href="https://www.instagram.com">
+                <img width="20" src="img/insta.png" />
+              </a> </td>
+            <td style="min-width:45px;" width="45px" padding-right="25px"> <a href="https://www.youtube.com">
+                <img width="24" src="img/yb.png" />
+              </a> </td>
+            <td style="min-width:45px;" width="45" padding-right="0"> <a href="https://www.vk.com">
+                <img width="28" src="img/vk.png" />
+              </a> </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+       <mj-column align="left" width="100px" vertical-align="middle" padding-left="20px" padding-left="0">
+       </mj-column>
+      <mj-column css-class="sm-text" width="180" style="max-width:180px" padding-right="20px">
+        <mj-table width="180" style="max-width:180px" padding-right="20px">
+          <tr css-class="sm-text" padding-right="0">
+            <td style="max-width:40px" width="40" padding-right="20px"> <a href="#">
+                <img width="40" src="img/app.png" />
+              </a>
+            </td>
+            <td width="55" padding-left="20px" padding-right="0">
+            <a href="#">
+                <img width="40" src="img/gl.png" />
+              </a>  
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+ <mj-section background-color="transparent" vertical-align="top" padding-bottom="0px" padding-top="6px">
+      <mj-column align="center" vertical-align="top" width="100%">
+        <mj-text align="center" line-height="20px" color="#484848" font-size="11px" font-weight="500" font-family="Suisse Intl,Arial,sans-serif" padding-left="20px" padding-right="25px" padding-bottom="0">
+          <p>Отписаться от рассылки можно в настройках <a href="https://bcs.ru" style="text-decoration:underline ;color:#006DF0">БКС Онлайн</a> или по телефону 8 800 100-55-44</p>
+         </mj-text>        
+      </mj-column>
+  </mj-section>
+    <mj-section padding-bottom="10px" padding-top="0px"></mj-section>
+  </mj-body>
+</mjml>
